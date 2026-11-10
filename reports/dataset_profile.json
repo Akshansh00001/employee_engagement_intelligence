@@ -1,0 +1,21 @@
+{
+  "rows": 1470,
+  "columns": 31,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "engagement_mean": 68.08,
+  "wlb_mean": 69.03,
+  "overtime_share": 28.3,
+  "burnout_high_share": 8.57,
+  "burnout_medium_share": 40.0,
+  "burnout_low_share": 51.43,
+  "attrition_rate": 16.12,
+  "engagement_stayed": 69.09,
+  "engagement_left": 62.82,
+  "employees_overtime": 416,
+  "departments": {
+    "Research & Development": 961,
+    "Sales": 446,
+    "Human Resources": 63
+  }
+}
